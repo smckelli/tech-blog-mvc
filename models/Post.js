@@ -10,20 +10,20 @@ class Post extends Model {}
 Post.init({
   id: {
       type: DataTypes.INTEGER,
-      allowNull: false,
+      allowNull: true,
       primaryKey: true,
       autoIncrement: true
   },
   title: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
       validate: {
           len: [1]
       }
   },
   content: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
       validate: {
           len: [1]
       }
