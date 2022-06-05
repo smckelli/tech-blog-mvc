@@ -1,5 +1,8 @@
 # tech-blog-mvc
 
+# Deployed app to Heroku
+
+https://smckelli-tech-blog-mvc.herokuapp.com/
 
 # User-story
 
@@ -44,12 +47,6 @@ WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 
 
-# Deployed app to Heroku
-
-https://smckelli-tech-blog-mvc.herokuapp.com/
 
 
-https://smckelli-tech-blog-mvc.herokuapp.com/
-
-https://techblogmvc-smckelli.herokuapp.com/
 
